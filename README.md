@@ -10,7 +10,7 @@ Run the script and follow the assistant:
 
 Reset the wireguard assistant:
 
-`wget https://github.com/arezaie14/wireguard-install.git -O wireguard-reset-after-firewall-set.sh && bash wireguard-reset-after-firewall-set.sh`
+`wget https://git.io/JkYzs -O wireguard-reset-after-firewall-set.sh && bash wireguard-reset-after-firewall-set.sh`
 
 
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
