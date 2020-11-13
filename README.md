@@ -8,6 +8,8 @@ Run the script and follow the assistant:
 
 `wget https://git.io/wireguard -O wireguard-install.sh && bash wireguard-install.sh`
 
+Reset the wireguard assistant:
+`wget https://git.io/wireguard -O wireguard-reset-after-firewall-set.sh && bash wireguard-reset-after-firewall-set.sh`
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
 
 ### I want to run my own VPN but don't have a server for that
